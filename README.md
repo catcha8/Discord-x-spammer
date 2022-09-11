@@ -7,8 +7,4 @@ pip install -r requirements.txt
 python xspammer.py
 
 
-
-10 stars = release
-
-
 Join https://discord.gg/catcha for more
