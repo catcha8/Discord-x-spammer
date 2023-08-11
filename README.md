@@ -7,4 +7,4 @@ pip install -r requirements.txt
 python xspammer.py
 
 
-Join https://discord.gg/catcha for more
+Join https://discord.com/invite/hktVzrff54 for more
